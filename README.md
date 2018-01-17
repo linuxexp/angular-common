@@ -1,3 +1,5 @@
+I recommend using my another repo https://github.com/linuxexp/angular-material-tdd
+
 This is streamlined minimalistic boilerplate code to get started building beautiful apps using MaterializeCSS, Velocity
 
 To Get Started
